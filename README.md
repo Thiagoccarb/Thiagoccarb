@@ -1,4 +1,4 @@
-### Hi, Welcome to my page! 👋
+# Hi, Welcome to my page! 👋
 
 I'm Thiago, a Full Stack web developer student who discovered the beauty behind the IT world and decided to dive into it!:smile:
 I'm currently focused on improving my backend and frontend skills regarding JavaScript programming language.
@@ -15,3 +15,6 @@ pet lover:dog:	:cat:
 
 ## Find me elsewhere
 [![Linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-cabral-carboneri-9a977066/)
+
+## Front end
+[![HTML badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
