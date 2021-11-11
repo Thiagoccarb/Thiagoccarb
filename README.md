@@ -11,3 +11,7 @@ I love being in contact with nature through outdoor activities
 pet lover:dog:	:cat:	
 
 “Everything you want is on the other side of fear.” - Jack Canfield 
+<hr/>
+
+## Find me elsewhere
+[![Linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-cabral-carboneri-9a977066/)
