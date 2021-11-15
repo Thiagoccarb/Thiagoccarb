@@ -5,6 +5,11 @@ I'm currently focused on improving my backend and frontend skills regarding Java
 Some of my projects will be available soon on this page. :nerd_face:	:computer:	
 
 I litlle bit more of myself:man:
+<ul>
+  <li>love being in contact with nature through outdoor activitie</li>
+   <li>5km - 10km runner:runner:</li>
+   <li>pet lover:dog:	:cat:	</li>
+</ul>
 
 I love being in contact with nature through outdoor activities
 5km - 10km runner:runner:
