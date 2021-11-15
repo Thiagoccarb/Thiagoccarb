@@ -36,7 +36,7 @@ pet lover:dog:	:cat:
 <hr />
 
 ## My stats 
-[![stats badge](https://github-readme-stats.vercel.app/api/top-langs/?username={thiagoccarb}&theme=blue-green)](https://github-readme-stats.vercel.app/api/top-langs/?username={thiagoccarb}&theme=blue-green) [![stats2 badge](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)
+[![stats badge](https://github-readme-stats.vercel.app/api/top-langs/?username={thiagoccarb}&theme=blue-green)](https://github-readme-stats.vercel.app/api/top-langs/?username={Thiagoccarb}&theme=blue-green) [![stats2 badge](https://github-readme-stats.vercel.app/api?username={Thiagoccarb}&theme=blue-green)](https://github-readme-stats.vercel.app/api?username={Thiagoccarb}&theme=blue-green)
 <hr />
 
 
