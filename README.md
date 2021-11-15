@@ -35,5 +35,9 @@ pet lover:dog:	:cat:
 [![GITHUB badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) [![SCRUM badge](https://img.shields.io/badge/scrum-100000?style=for-the-badge&logo&logoColor=white)](https://img.shields.io/badge/scrum-100000?style=for-the-badge&logo&logoColor=white) [![KANBAN badge](https://img.shields.io/badge/kanban-100000?style=for-the-badge&logo&logoColor=white)](https://img.shields.io/badge/kanban-100000?style=for-the-badge&logo&logoColor=white)
 <hr />
 
+## My stats 
+[![stats badge](https://github-readme-stats.vercel.app/api/top-langs/?username={thiagoccarb}&theme=blue-green)](https://github-readme-stats.vercel.app/api/top-langs/?username={thiagoccarb}&theme=blue-green) [![stats2 badge](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)
+<hr />
+
 
 
