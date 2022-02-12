@@ -2,7 +2,7 @@
 
 I'm Thiago, a Full Stack web developer student who discovered the beauty behind the IT world and decided to dive into it!:smile:
 I'm currently focused on improving my backend and frontend skills regarding JavaScript programming language.
-Some of my projects will be available soon on this page. :nerd_face:	:computer:	
+Some of my projects are be available <a> href="https://thiago-portfolio-v1.herokuapp.com/">here</a>	
 
 I litlle bit more of myself:man:
 <ul>
